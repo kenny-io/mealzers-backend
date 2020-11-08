@@ -10,6 +10,14 @@ Icon
 .Trashes
 ._*
 package-lock.json
+.editorconfig
+.env.example
+.eslintignore
+.eslintrc
+.ico 
+.json
+.tmp
+node_modules
 
 ############################
 # Linux
